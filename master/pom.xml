@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>cn.edu.ujs.chuge</groupId>
+    <artifactId>master</artifactId>
+    <packaging>pom</packaging>
+    <name>chuge Master</name>
+    <description></description>
+    <version>1.0</version>
+
+    <organization>
+        <name>Infomation Center of JiangSu University</name>
+        <url>https://github.com/caramelcoffee/microservice-mobile-app</url>
+    </organization>
+
+    <inceptionYear>2016</inceptionYear>
+
+    <developers>
+        <developer>
+            <id>InfoCenter Dev Team</id>
+            <name>InfoCenter Dev Team</name>
+            <email>huanghonghui@ujs.edu.cn</email>
+            <url>https://github.com/caramelcoffee/microservice-mobile-app</url>
+            <organization>InfoCenter</organization>
+            <organizationUrl>https://github.com/caramelcoffee</organizationUrl>
+        </developer>
+    </developers>
+
+    <properties>
+        <chuge.version>1.0</chuge.version>
+        <chuge.springMvc.version></chuge.springMvc.version>
+        <chuge.junit.version>4.7</chuge.junit.version>
+    </properties>
+
+
+</project>
